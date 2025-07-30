@@ -18,7 +18,7 @@ This YOURLS plugin make it possible to change logo, title, page footer, add cust
 
 ## Instructions
 * Download the plugin release
-* Upload folder `icc-webmaster-settings` with files into `/user/plugins`
+* Create the folder `icc-webmaster-settings` into YOURLS path `/user/plugins` and store `plugin.php` on it
 * Activate plugin in `/admin/plugins.php` page of your YOURLS installation
 * Access `Webmaster Settings` page
 * Manage settings and save
