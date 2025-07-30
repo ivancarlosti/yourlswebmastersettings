@@ -27,6 +27,28 @@ This YOURLS plugin make it possible to change logo, title, page footer, add cust
 ## Requirements
 * YOURLS 1.10+
 
+## CSS snippet suggestion
+
+```
+#footer p a {
+    background: none !important;
+    padding-left: 0px !important;
+}
+
+input {
+    font-family: Verdana, Arial;
+    font-size: 10px;
+    color: #595441;
+    background-color: #FFFFFF;
+    border: 1px solid #88c0eb;
+    margin: 1px;
+}
+
+#error-message {
+    padding: 10px;
+}
+```
+
 <!-- footer -->
 ---
 
