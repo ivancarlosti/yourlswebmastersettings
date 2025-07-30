@@ -3,7 +3,7 @@
 Plugin Name: ICC Webmaster Settings
 Plugin URI: https://github.com/ivancarlosti/yourlswebmastersettings
 Description: Change Logo, Title, Page Footer, add custom CSS, and customize favicon lines
-Version: 1.0
+Version: 1.01
 Author: Ivan Carlos
 Author URI: https://ivancarlos.com.br/
 */
