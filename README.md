@@ -2,15 +2,15 @@
 This YOURLS plugin make it possible to change logo, title, page footer, add custom CSS, and customize favicon lines into your YOURLS installation.
 
 <!-- buttons -->
-[![Stars](https://img.shields.io/github/stars/ivancarlosti/yourlsiccmetaredirect?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/yourlsiccmetaredirect/stargazers)
-[![Watchers](https://img.shields.io/github/watchers/ivancarlosti/yourlsiccmetaredirect?label=Watchers&style=flat&color=red)](https://github.com/sponsors/ivancarlosti)
-[![Forks](https://img.shields.io/github/forks/ivancarlosti/yourlsiccmetaredirect?label=Forks&style=flat&color=ff69b4)](https://github.com/sponsors/ivancarlosti)
-[![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/yourlsiccmetaredirect?label=Last%20Commit)](https://github.com/ivancarlosti/yourlsiccmetaredirect/commits)
-[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/yourlsiccmetaredirect?label=Activity)](https://github.com/ivancarlosti/yourlsiccmetaredirect/pulse)  
-[![GitHub Issues](https://img.shields.io/github/issues/ivancarlosti/yourlsiccmetaredirect?label=Issues&color=orange)](https://github.com/ivancarlosti/yourlsiccmetaredirect/issues)
-[![License](https://img.shields.io/github/license/ivancarlosti/yourlsiccmetaredirect?label=License)](LICENSE)
-[![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/yourlsiccmetaredirect/security)
-[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-2.1-4baaaa)](https://github.com/ivancarlosti/yourlsiccmetaredirect?tab=coc-ov-file)
+[![Stars](https://img.shields.io/github/stars/ivancarlosti/yourlswebmastersettings?label=⭐%20Stars&color=gold&style=flat)](https://github.com/ivancarlosti/yourlswebmastersettings/stargazers)
+[![Watchers](https://img.shields.io/github/watchers/ivancarlosti/yourlswebmastersettings?label=Watchers&style=flat&color=red)](https://github.com/sponsors/ivancarlosti)
+[![Forks](https://img.shields.io/github/forks/ivancarlosti/yourlswebmastersettings?label=Forks&style=flat&color=ff69b4)](https://github.com/sponsors/ivancarlosti)
+[![GitHub last commit](https://img.shields.io/github/last-commit/ivancarlosti/yourlswebmastersettings?label=Last%20Commit)](https://github.com/ivancarlosti/yourlswebmastersettings/commits)
+[![GitHub commit activity](https://img.shields.io/github/commit-activity/m/ivancarlosti/yourlswebmastersettings?label=Activity)](https://github.com/ivancarlosti/yourlswebmastersettings/pulse)  
+[![GitHub Issues](https://img.shields.io/github/issues/ivancarlosti/yourlswebmastersettings?label=Issues&color=orange)](https://github.com/ivancarlosti/yourlswebmastersettings/issues)
+[![License](https://img.shields.io/github/license/ivancarlosti/yourlswebmastersettings?label=License)](LICENSE)
+[![Security](https://img.shields.io/badge/Security-View%20Here-purple)](https://github.com/ivancarlosti/yourlswebmastersettings/security)
+[![Code of Conduct](https://img.shields.io/badge/Code%20of%20Conduct-2.1-4baaaa)](https://github.com/ivancarlosti/yourlswebmastersettings?tab=coc-ov-file)
 <!-- endbuttons -->
 
 ## Inspiration
